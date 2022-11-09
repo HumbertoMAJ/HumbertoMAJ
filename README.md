@@ -2,8 +2,6 @@
 
 
 
-- 🌱 Estudando Javascript  
-
 
 <div align="center">
   <a href="https://github.com/HumbertoMAJ">
